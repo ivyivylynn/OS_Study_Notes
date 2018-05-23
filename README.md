@@ -1,2 +1,1 @@
-# OS_Study_Notes
-Stores my study notes for Operating Systems
+# OS_Study_NotesThis is my study notes for Georgia Tech CS 6200 Introduction to Operating Systems.PDFs are available in the PDFs folder.[P1L2](/P1L2.md)

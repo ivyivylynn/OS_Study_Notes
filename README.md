@@ -1,1 +1,1 @@
-# OS_Study_NotesThis is my study notes for Georgia Tech CS 6200 Introduction to Operating Systems.PDFs are available in the PDFs folder.[P1L2](/P1L2.md)[P2L1](/P2L1.md)[P2L2](/P2L2.md)[P2L3](/P2L3.md)
+# OS_Study_NotesThis is my study notes for Georgia Tech CS 6200 Introduction to Operating Systems.PDFs are available in the PDFs folder.[PDF](/PDFs)[P1L2](/P1L2.md)  [P2L1](/P2L1.md)  [P2L2](/P2L2.md)  [P2L3](/P2L3.md)  
